@@ -1,9 +1,29 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/Site1.Master" CodeBehind="news.aspx.cs" Inherits="WeAreAfrica.news" %>
 
 <asp:Content ContentPlaceHolderID="ContentPlaceHolder1" runat="server" ID="news">
+    <style>
+        a {
+	        font-size:17px !important;
+        }
+
+        form {
+            width:350px;
+            margin-left:13%;
+        }
+
+        @media (max-width: 769px) {
+            form {
+	            width:350px;
+                margin-left:0%;
+                padding: 0;
+            }
+        }
+
+    </style>
 
 	<!-- Container BEGIN -->
 	<div class="container-fluid">
+        
     
     	<!-- Back Button BEGIN -->
         <div class="row">
@@ -42,11 +62,12 @@
                 <div class="newsarticletext">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore...
                 </div>
-                <button type="button" id="newslinks" class="btn btn-default">
-                	Download
-                    <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>
-                </button>
                 
+                <form id="form" runat="server">
+                    <%--<asp:Button ID="newslinks" CssClass="btn btn-default" runat="server" Text="Download" OnClick="download_Click" ClientIDMode="Static" />--%>
+                    <asp:LinkButton ID="newslinks" ClientIDMode="Static" CssClass="btn btn-default" runat="server">Download <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></asp:LinkButton>
+                    
+                </form>
 <%--                <div class="newsarticleheading">Article Heading</div>
                 
                 <div class="newsarticletext">
@@ -63,7 +84,7 @@
         <!-- News END -->
        
         <div class="spacer"></div>
-        
+
     </div>
     <!-- Container END -->
 

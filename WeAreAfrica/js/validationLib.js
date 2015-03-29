@@ -595,5 +595,21 @@
         location.href = "/news";
     });
 
+    $(".downloadNews").click(function () {
+        var postUrl = "/AjaxOperation.aspx/downloadNews";
+        $.ajax({
+            type: "POST",
+            url: postUrl,
+            contentType: "application/json; charset=utf-8",
+            dataType: "json"
+        }).done(
+            function (data, textStatus, jqXHR) {
+            }
+        ).fail(
+            function (data, textStatus, jqXHR) {
+            }
+        );
+    });
+
     LoginIfOnLoginPageAndRememberMeIsSet();
 });

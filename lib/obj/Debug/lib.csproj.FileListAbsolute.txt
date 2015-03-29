@@ -2,3 +2,8 @@ c:\users\musa.mhlengi\documents\visual studio 2012\Projects\WeAreAfrica\lib\bin\
 c:\users\musa.mhlengi\documents\visual studio 2012\Projects\WeAreAfrica\lib\bin\Debug\lib.pdb
 c:\users\musa.mhlengi\documents\visual studio 2012\Projects\WeAreAfrica\lib\obj\Debug\lib.dll
 c:\users\musa.mhlengi\documents\visual studio 2012\Projects\WeAreAfrica\lib\obj\Debug\lib.pdb
+C:\Users\musa.mhlengi\Documents\GitHub\WeAreAfrica\lib\bin\Debug\lib.dll
+C:\Users\musa.mhlengi\Documents\GitHub\WeAreAfrica\lib\bin\Debug\lib.pdb
+C:\Users\musa.mhlengi\Documents\GitHub\WeAreAfrica\lib\obj\Debug\lib.csprojResolveAssemblyReference.cache
+C:\Users\musa.mhlengi\Documents\GitHub\WeAreAfrica\lib\obj\Debug\lib.dll
+C:\Users\musa.mhlengi\Documents\GitHub\WeAreAfrica\lib\obj\Debug\lib.pdb

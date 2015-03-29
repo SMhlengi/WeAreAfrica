@@ -99,7 +99,7 @@ namespace WeAreAfrica
             // new code 
             EmailMessage += "Howzit " + firstname + " <br /><br />";
             EmailMessage += " Thank you for registering for We Are Africa.<br />";
-            EmailMessage += "You can login to your account <a href='http://WeAreAfrica.socialengine.co.za/login'> here </a> with your username ( " + firstname + " ). <br /><br />" +  ReturnEmailSignature();
+            EmailMessage += "You can login to your account <a href='http://waa.socialengine.co.za/login'> here </a> with your username ( " + firstname + " ). <br /><br />" +  ReturnEmailSignature();
             // end of new code 
             EmailMessage += "</body>" + Environment.NewLine;
             EmailMessage += "</html>";

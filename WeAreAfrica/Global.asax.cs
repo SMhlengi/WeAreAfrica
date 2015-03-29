@@ -13,6 +13,12 @@ namespace WeAreAfrica
 
         protected void RegisterRoutes(RouteCollection routes)
         {
+
+            routes.MapPageRoute("Policy",
+                "pp",
+                "~/privacypolicy.aspx", true,
+            new RouteValueDictionary { });
+
             routes.MapPageRoute("Home",
                 "home",
                 "~/home.aspx", true,

@@ -65,7 +65,7 @@
                 
                 <form id="form" runat="server">
                     <%--<asp:Button ID="newslinks" CssClass="btn btn-default" runat="server" Text="Download" OnClick="download_Click" ClientIDMode="Static" />--%>
-                    <asp:LinkButton ID="newslinks" ClientIDMode="Static" CssClass="btn btn-default" runat="server">Download <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></asp:LinkButton>
+                    <asp:LinkButton ID="newslinks" ClientIDMode="Static" CssClass="btn btn-default" runat="server" OnClick="newslinks_Click">Download <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></asp:LinkButton>
                     
                 </form>
 <%--                <div class="newsarticleheading">Article Heading</div>

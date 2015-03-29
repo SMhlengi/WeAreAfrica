@@ -591,5 +591,9 @@
         $(".email").parent().addClass("has-error");
     }
 
+    $(".newsNavigation").click(function () {
+        location.href = "/news";
+    });
+
     LoginIfOnLoginPageAndRememberMeIsSet();
 });

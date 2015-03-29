@@ -49,9 +49,8 @@
                       <br />
                           <h5>Programmes</h5>
                     </button>
-                    
-                    <a href="/news">
-                    <button type="button" class="btn btn-default btn-lg naviconsright">
+
+                    <button type="button" class="btn btn-default btn-lg naviconsright newsNavigation">
                       <span class="glyphicon glyphicon-th" aria-hidden="true"></span>
                       <br />
                           <h5>News</h5>

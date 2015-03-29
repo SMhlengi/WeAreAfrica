@@ -27,7 +27,7 @@
             	
                 <div class="pagetitle">News</div>
                                 
-                <div class="newsarticleheading">Article Heading</div>
+                <%--<div class="newsarticleheading">Article Heading</div>
                 
                 <div class="newsarticletext">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore...
@@ -35,7 +35,7 @@
                 <button type="button" id="newslinks" class="btn btn-default">
                 	Read more
                     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                </button>
+                </button>--%>
                 
                 <div class="newsarticleheading">Article Heading</div>
                 
@@ -47,7 +47,7 @@
                     <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>
                 </button>
                 
-                <div class="newsarticleheading">Article Heading</div>
+<%--                <div class="newsarticleheading">Article Heading</div>
                 
                 <div class="newsarticletext">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore...
@@ -55,7 +55,7 @@
                 <button type="button" id="newslinks" class="btn btn-default">
                 	Read more
                     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                </button>
+                </button>--%>
                 
 
             </div>

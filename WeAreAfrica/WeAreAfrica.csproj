@@ -38,7 +38,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="lib">
+    <Reference Include="lib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\lib\bin\Release\lib.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
@@ -159,6 +160,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="img\.DS_Store" />
     <Content Include="Site1.Master" />
+    <None Include="Properties\PublishProfiles\weareafrica.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

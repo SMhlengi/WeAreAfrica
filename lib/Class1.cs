@@ -10,9 +10,9 @@ namespace lib
 {
     public class library
     {
-        private const string SQL_GET_USER = "SELECT * FROM WeAreAfrica.dbo.people WHERE (username = @username AND password = @password);";
-        private const string SQL_SELECT_PERSON_BASED_ON_EMAIL = "SELECT * FROM WeAreAfrica.dbo.people WHERE (email = @email);";
-        private const string SQL_INSERT_PERSON = "INSERT INTO WeAreAfrica.dbo.people (username, email, password, telephone) VALUES (@username, @email, @password, @telephone);";
+        private const string SQL_GET_USER = "SELECT * FROM waa.dbo.people WHERE (username = @username AND password = @password);";
+        private const string SQL_SELECT_PERSON_BASED_ON_EMAIL = "SELECT * FROM waa.dbo.people WHERE (email = @email);";
+        private const string SQL_INSERT_PERSON = "INSERT INTO waa.dbo.people (username, email, password, telephone) VALUES (@username, @email, @password, @telephone);";
 
 
 

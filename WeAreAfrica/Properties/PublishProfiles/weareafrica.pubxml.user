@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\musa.mhlengi\Desktop\weareafrica</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AjaxOperation.aspx">
+      <publishTime>03/28/2015 15:38:05</publishTime>
+    </File>
+    <File Include="bin/lib.dll">
+      <publishTime>03/29/2015 08:47:24</publishTime>
+    </File>
+    <File Include="bin/WeAreAfrica.dll">
+      <publishTime>03/29/2015 12:35:28</publishTime>
+    </File>
+    <File Include="css/.DS_Store">
+      <publishTime>03/28/2015 14:02:49</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.css">
+      <publishTime>03/28/2015 14:02:49</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.css.map">
+      <publishTime>03/28/2015 14:02:49</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.min.css">
+      <publishTime>03/28/2015 14:02:49</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>03/28/2015 14:02:49</publishTime>
+    </File>
+    <File Include="css/bootstrap.css.map">
+      <publishTime>03/28/2015 14:02:49</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>03/28/2015 14:02:49</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>03/28/2015 14:02:49</publishTime>
+    </File>
+    <File Include="css/waastyles.css">
+      <publishTime>03/29/2015 12:34:01</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>03/28/2015 14:57:38</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/28/2015 14:03:17</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/28/2015 14:03:17</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/28/2015 14:03:17</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/28/2015 14:03:17</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>03/28/2015 14:03:18</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/28/2015 14:51:59</publishTime>
+    </File>
+    <File Include="home.aspx">
+      <publishTime>03/29/2015 10:01:42</publishTime>
+    </File>
+    <File Include="img/.DS_Store">
+      <publishTime>03/28/2015 14:03:31</publishTime>
+    </File>
+    <File Include="img/DAC_Background.jpg">
+      <publishTime>03/28/2015 14:03:31</publishTime>
+    </File>
+    <File Include="img/favicon.ico">
+      <publishTime>03/28/2015 14:03:31</publishTime>
+    </File>
+    <File Include="img/WeAreAfrica_W1.png">
+      <publishTime>03/28/2015 14:03:31</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>03/28/2015 14:03:44</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>03/28/2015 14:03:44</publishTime>
+    </File>
+    <File Include="js/jquery-1.11.1.min.js">
+      <publishTime>03/28/2015 14:24:09</publishTime>
+    </File>
+    <File Include="js/jquery.cookies.js">
+      <publishTime>03/28/2015 14:24:09</publishTime>
+    </File>
+    <File Include="js/npm.js">
+      <publishTime>03/28/2015 14:03:44</publishTime>
+    </File>
+    <File Include="js/validationLib.js">
+      <publishTime>03/29/2015 10:39:35</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>03/29/2015 08:30:22</publishTime>
+    </File>
+    <File Include="news.aspx">
+      <publishTime>03/29/2015 12:19:15</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>03/29/2015 12:19:19</publishTime>
+    </File>
+    <File Include="uc_javascripts.ascx">
+      <publishTime>03/28/2015 18:15:27</publishTime>
+    </File>
+    <File Include="uc_styles.ascx">
+      <publishTime>03/29/2015 09:17:33</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/29/2015 12:35:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

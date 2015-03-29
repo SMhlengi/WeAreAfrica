@@ -3,3 +3,8 @@ C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\WeAreAfrica\lib\bin\
 C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\WeAreAfrica\lib\obj\Release\lib.dll
 C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\WeAreAfrica\lib\obj\Release\lib.pdb
 C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\WeAreAfrica\lib\obj\Release\lib.csprojResolveAssemblyReference.cache
+C:\Users\musa.mhlengi\Documents\GitHub\WeAreAfrica\lib\bin\Release\lib.dll
+C:\Users\musa.mhlengi\Documents\GitHub\WeAreAfrica\lib\bin\Release\lib.pdb
+C:\Users\musa.mhlengi\Documents\GitHub\WeAreAfrica\lib\obj\Release\lib.csprojResolveAssemblyReference.cache
+C:\Users\musa.mhlengi\Documents\GitHub\WeAreAfrica\lib\obj\Release\lib.dll
+C:\Users\musa.mhlengi\Documents\GitHub\WeAreAfrica\lib\obj\Release\lib.pdb

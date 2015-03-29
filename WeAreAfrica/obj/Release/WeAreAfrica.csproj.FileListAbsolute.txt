@@ -1,0 +1,6 @@
+C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\WeAreAfrica\WeAreAfrica\bin\WeAreAfrica.dll
+C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\WeAreAfrica\WeAreAfrica\bin\WeAreAfrica.pdb
+C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\WeAreAfrica\WeAreAfrica\bin\lib.dll
+C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\WeAreAfrica\WeAreAfrica\bin\lib.pdb
+C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\WeAreAfrica\WeAreAfrica\obj\Release\WeAreAfrica.dll
+C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\WeAreAfrica\WeAreAfrica\obj\Release\WeAreAfrica.pdb

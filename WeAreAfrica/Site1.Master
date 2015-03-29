@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WeAreAfrica.Site1" %>
+<%@ Register TagName="sheets" TagPrefix="style" Src="~/uc_styles.ascx"%>
+<%@ Register TagName="scripts" TagPrefix="java" Src="~/uc_javascripts.ascx" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>We Are Africa - Welcome</title>
+    <style:sheets runat="server" id="stylesheets"></style:sheets>
+    <script src="<%= ResolveUrl("~/js/jquery-1.11.1.min.js") %>"></script>
+
+</head>
+<body>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+    <java:scripts runat="server" id="javascripts"></java:scripts>
+</body>
+</html>

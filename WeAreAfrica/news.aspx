@@ -31,7 +31,7 @@
             
             	<div class="col-xs-6 col-md-6">
                 	
-                	<a href="home.html"><button type="button" class="btn btn-link" style="float:left"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>Back</button></a>
+                	<a href="/home"><button type="button" class="btn btn-link" style="float:left"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>Back</button></a>
                 </div>
                             	
             </div>
@@ -39,7 +39,7 @@
         <!-- Back Button END -->
     
     	<!-- Logo -->
-    	<a href="home.html"><img class="logosmlright" src="img/WeAreAfrica_W1.png" alt="We Are Africa Logo" /></a>
+    	<a href="/home"><img class="logosmlright" src="img/WeAreAfrica_W1.png" alt="We Are Africa Logo" /></a>
         
         <!-- News BEGIN -->
         <div class="row">

@@ -12,7 +12,11 @@ namespace WeAreAfrica
         protected void Page_Load(object sender, EventArgs e)
         {
             if (HttpContext.Current.Session["loggedIn"] == null && HttpContext.Current.Request.Url.AbsolutePath != "/default.aspx" && HttpContext.Current.Request.Url.AbsolutePath != "/login")
-                Response.Redirect("/"); 
+                Response.Redirect("/");
+            else if (HttpContext.Current.Session["loggedIn"] != null && HttpContext.Current.Request.Url.AbsolutePath == "/default.aspx")
+                Response.Redirect("/home");
+            else if (HttpContext.Current.Session["loggedIn"] != null && HttpContext.Current.Request.Url.AbsolutePath == "/login")
+                Response.Redirect("/home");
         }
     }
 }
